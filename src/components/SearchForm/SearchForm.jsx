@@ -55,8 +55,8 @@ SearchFrom.propTypes = {
 
 export default SearchFrom;
 
-// На класах
 
+// На класах
 // import React, { Component } from 'react';
 // import PropTypes from 'prop-types';
 
